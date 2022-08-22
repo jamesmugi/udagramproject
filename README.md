@@ -1,6 +1,8 @@
-GITHUB REPO LINK https://github.com/jamesmugi/udagram
+GITHUB REPO LINK 
+https://github.com/jamesmugi/udagramproject
 
 ELASTIC BEANSTALK :
+http://app-env.eba-vpe6ittp.us-east-1.elasticbeanstalk.com/
 
 # Udagram Image Filtering Microservice
 
